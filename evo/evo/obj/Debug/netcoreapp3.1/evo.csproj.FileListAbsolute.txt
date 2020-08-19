@@ -1,0 +1,13 @@
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.exe
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.deps.json
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.runtimeconfig.json
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.runtimeconfig.dev.json
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.dll
+D:\Programming\evo\evo\bin\Debug\netcoreapp3.1\evo.pdb
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.csprojAssemblyReference.cache
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.AssemblyInfoInputs.cache
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.AssemblyInfo.cs
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.csproj.CoreCompileInputs.cache
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.dll
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.pdb
+D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.genruntimeconfig.cache
