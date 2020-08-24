@@ -11,3 +11,16 @@ D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.csproj.CoreCompileInputs.cach
 D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.dll
 D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.pdb
 D:\Programming\evo\evo\obj\Debug\netcoreapp3.1\evo.genruntimeconfig.cache
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.exe
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.deps.json
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.runtimeconfig.json
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.runtimeconfig.dev.json
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.dll
+D:\Programming\GIT\neural-sharp\evo\evo\bin\Debug\netcoreapp3.1\evo.pdb
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.csprojAssemblyReference.cache
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.AssemblyInfoInputs.cache
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.AssemblyInfo.cs
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.csproj.CoreCompileInputs.cache
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.dll
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.pdb
+D:\Programming\GIT\neural-sharp\evo\evo\obj\Debug\netcoreapp3.1\evo.genruntimeconfig.cache

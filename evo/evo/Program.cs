@@ -23,7 +23,6 @@ namespace evo
             List<Generation> generations = new List<Generation>();
             int i = 0;
             algo bestalgo = new algo();
-            bestalgo.Mutate();
 
             int algocounter = 0;
             double algoerror = 100.0;

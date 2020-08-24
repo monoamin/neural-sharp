@@ -4,6 +4,7 @@ using System.Text;
 
 namespace evo
 {
+    [Serializable]
     class link
     {
         public double weight;

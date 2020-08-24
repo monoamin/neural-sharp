@@ -4,19 +4,14 @@ using System.Text;
 
 namespace evo
 {
-    class URandom
+    static class URandom
     {
-        Random r;
+        static Random r = new Random();
 
-        double lastRandom = 0.0;
-        double newRandom = 0.0;
-        public URandom()
-        {
-            r = new Random();
-            lastRandom = r.NextDouble();
-        }
+        static double lastRandom = 0.0;
+        static double newRandom = 0.0;
 
-        public double NextDouble()
+        public static double NextDouble()
         {
             while (newRandom == lastRandom)
             {

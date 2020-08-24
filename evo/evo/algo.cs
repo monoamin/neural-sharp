@@ -6,14 +6,13 @@ using System.Numerics;
 
 namespace evo
 {
+    [Serializable]
     class algo
     {
         public node[] inputLayer = new node[2];
         public node[] hiddenLayer = new node[2];
         public node[] outputLayer = new node[1];
         public List<link> links;
-
-        URandom r = new URandom();
 
         public algo()
         {
@@ -64,7 +63,7 @@ namespace evo
                 {
                     value += j.inNode.value * j.weight;
                 }
-                n.value = value;
+                n.value = LogSigmoid(value);
             }
 
             foreach (node n in outputLayer)
@@ -74,18 +73,17 @@ namespace evo
                 {
                     value += j.inNode.value * j.weight;
                 }
-                n.value = value;
+                n.value = LogSigmoid(value);
                 result =  value;
             }
             return result;
         }
 
-        public void Mutate()
+        public double LogSigmoid(double x)
         {
-            for (int i = 0; i < links.Count; i++)
-            {
-                links[i].weight = ((r.NextDouble() - 0.5) / 10);
-            }
+            if (x < -45.0) return 0.0;
+            else if (x > 45.0) return 1.0;
+            else return 1.0 / (1.0 + Math.Exp(-x));
         }
     }
 }

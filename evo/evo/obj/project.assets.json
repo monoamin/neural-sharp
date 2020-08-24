@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\evo\\evo\\evo.csproj",
+      "projectUniqueName": "D:\\Programming\\GIT\\neural-sharp\\evo\\evo\\evo.csproj",
       "projectName": "evo",
-      "projectPath": "D:\\Programming\\evo\\evo\\evo.csproj",
+      "projectPath": "D:\\Programming\\GIT\\neural-sharp\\evo\\evo\\evo.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\evo\\evo\\obj\\",
+      "outputPath": "D:\\Programming\\GIT\\neural-sharp\\evo\\evo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace evo
 {
+    [Serializable]
     class node
     {
         public List<link> inputs;
